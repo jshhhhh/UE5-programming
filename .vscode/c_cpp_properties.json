@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "FirstCppEditor Editor Win64 Development (FirstCpp)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\.vscode\\compileCommands_FirstCpp.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
