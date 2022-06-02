@@ -23,5 +23,15 @@
 		"file": "C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\Source\\FirstCpp\\FirstCppGameModeBase.h",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\.vscode\\compileCommands_Default\\FirstCpp.211.rsp\"",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\Source\\FirstCpp\\MyActor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\.vscode\\compileCommands_Default\\FirstCpp.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\Source\\FirstCpp\\MyActor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Jeong\\Unreal Projects\\FirstCpp\\.vscode\\compileCommands_Default\\FirstCpp.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	}
 ]
